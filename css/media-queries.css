@@ -1,0 +1,168 @@
+@media screen and (max-width: 1130px) {
+	.block-1 .form {
+		padding-bottom: 10px;
+	}
+	.block-1 .form button {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.block-3 .reason {
+		width: 45.5%;
+		margin-left: 3%;
+	}
+	div.form {
+		padding-bottom: 10px;
+	}
+	div.form button {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.block-8 .br {
+		display: none;
+	}
+}
+@media screen and (max-width: 890px) {
+	.block-2 h2 {
+		font-size: 3.15em;
+	}
+	.block-6 section {
+		width: 50%;
+	}
+	.block-6 section.gadget {
+		width: 100%;
+		margin-top: 35px;
+	}
+}
+@media screen and (max-width: 750px) {
+	.block-2 .facts {
+		width: 45.5%;
+		margin-left: 3%;
+	}
+	.block-2 .facts:last-child {
+		width: 45.5%;
+		margin: 150px auto 0;
+		float: none;
+	}
+	.block-3 .reason {
+		width: 94%;
+		margin-left: 3%;
+	}
+	.block-4 .center section {
+		padding: 20px;
+	}
+	.block-4 section div {
+		float: none;
+		margin: auto;
+	}
+	.block-4 section article {
+		text-align: center;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+@media screen and (max-width: 600px) {
+	header article.info {
+		width: 100%;
+	}
+	header .info h3, header .info p {
+		text-align: center;
+	}
+	.block-2 .facts, .block-2.center {
+		float: none;
+		width: 94%;
+		margin-left: 3%;
+	}
+	.block-2 .facts:last-child {
+		width: 94%;
+		margin: 20px auto;
+		float: none;
+	}
+	.block-6 section {
+		float: none;
+		width: 100%;
+	}
+	.block-6 figure.skype {
+		margin-top: 35px;
+	}
+	.block-10 {
+	background-position: 0 0, 0 0;
+    }
+}
+@media screen and (max-width: 340px) {
+	header img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	header article.logo {
+		width: 100%;
+	}
+	div.form input {
+		width: 200px;
+	}
+	div.form button {
+		width: 200px;
+	}
+	.block-1 h3 {
+		font-size: 1.5em;
+	}
+	.block-3 .reason {
+		padding-bottom: 15px;
+	}
+	.block-7 section {
+		float: none;
+	}
+	.block-9 h1 {
+		font-size: 1.6em;
+	}
+	.block-9 h2 {
+		font-size: 1.6em;
+	}
+}
+@media screen and (max-width: 340px) {
+	.block-1 h2 {
+		font-size: 1.5em;
+	}
+	.block-1 h3 {
+		font-size: 1.2em;
+	}
+	.block-1 .middle .m-bottom h4 {
+		font-size: 1.2em;
+	}
+	div.form input {
+		width: 170px;
+	}
+	div.form button {
+		width: 170px;
+	}
+	.block-2 h1 {
+		font-size: 1.8em;
+	}
+	.block-4 .center section {
+		min-height: 260px;
+		padding: 20px 0px 20px 0px;
+	}
+	.block-4 section div {
+		width: 200px;
+		height: 200px;
+	}
+	.block-6 figure {
+		width: 200px;
+		height: 200px;
+	}
+	.block-6 figure.www {
+		background-position: -16px -14px;
+	}
+	.block-6 figure.skype {
+		background-position: -245px -15px;
+	}
+	.block-6 figure.gadget {
+		background-position: -475px -15px;
+	}
+	.block-6 span {
+		font-size: 1.3em;
+	}
+	.block-8 h2 {
+		font-size: 1.8em;
+	}
+}
